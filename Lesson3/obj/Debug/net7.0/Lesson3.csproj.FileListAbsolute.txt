@@ -1,0 +1,15 @@
+C:\Users\iarte\OneDrive\Рабочий стол\с#\домашка\C_Sharp\Lesson3\bin\Debug\net7.0\Lesson3.exe
+C:\Users\iarte\OneDrive\Рабочий стол\с#\домашка\C_Sharp\Lesson3\bin\Debug\net7.0\Lesson3.deps.json
+C:\Users\iarte\OneDrive\Рабочий стол\с#\домашка\C_Sharp\Lesson3\bin\Debug\net7.0\Lesson3.runtimeconfig.json
+C:\Users\iarte\OneDrive\Рабочий стол\с#\домашка\C_Sharp\Lesson3\bin\Debug\net7.0\Lesson3.dll
+C:\Users\iarte\OneDrive\Рабочий стол\с#\домашка\C_Sharp\Lesson3\bin\Debug\net7.0\Lesson3.pdb
+C:\Users\iarte\OneDrive\Рабочий стол\с#\домашка\C_Sharp\Lesson3\obj\Debug\net7.0\Lesson3.csproj.AssemblyReference.cache
+C:\Users\iarte\OneDrive\Рабочий стол\с#\домашка\C_Sharp\Lesson3\obj\Debug\net7.0\Lesson3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iarte\OneDrive\Рабочий стол\с#\домашка\C_Sharp\Lesson3\obj\Debug\net7.0\Lesson3.AssemblyInfoInputs.cache
+C:\Users\iarte\OneDrive\Рабочий стол\с#\домашка\C_Sharp\Lesson3\obj\Debug\net7.0\Lesson3.AssemblyInfo.cs
+C:\Users\iarte\OneDrive\Рабочий стол\с#\домашка\C_Sharp\Lesson3\obj\Debug\net7.0\Lesson3.csproj.CoreCompileInputs.cache
+C:\Users\iarte\OneDrive\Рабочий стол\с#\домашка\C_Sharp\Lesson3\obj\Debug\net7.0\Lesson3.dll
+C:\Users\iarte\OneDrive\Рабочий стол\с#\домашка\C_Sharp\Lesson3\obj\Debug\net7.0\refint\Lesson3.dll
+C:\Users\iarte\OneDrive\Рабочий стол\с#\домашка\C_Sharp\Lesson3\obj\Debug\net7.0\Lesson3.pdb
+C:\Users\iarte\OneDrive\Рабочий стол\с#\домашка\C_Sharp\Lesson3\obj\Debug\net7.0\Lesson3.genruntimeconfig.cache
+C:\Users\iarte\OneDrive\Рабочий стол\с#\домашка\C_Sharp\Lesson3\obj\Debug\net7.0\ref\Lesson3.dll
