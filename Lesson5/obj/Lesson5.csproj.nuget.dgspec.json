@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\iarte\\OneDrive\\Рабочий стол\\с#\\домашка\\C_Sharp\\Lesson3\\Lesson3.csproj": {}
+    "C:\\Users\\iarte\\OneDrive\\Рабочий стол\\с#\\домашка\\C_Sharp\\Lesson5\\Lesson5.csproj": {}
   },
   "projects": {
-    "c:\\Users\\iarte\\OneDrive\\Рабочий стол\\с#\\домашка\\C_Sharp\\Lesson3\\Lesson3.csproj": {
+    "C:\\Users\\iarte\\OneDrive\\Рабочий стол\\с#\\домашка\\C_Sharp\\Lesson5\\Lesson5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\iarte\\OneDrive\\Рабочий стол\\с#\\домашка\\C_Sharp\\Lesson3\\Lesson3.csproj",
-        "projectName": "Lesson3",
-        "projectPath": "c:\\Users\\iarte\\OneDrive\\Рабочий стол\\с#\\домашка\\C_Sharp\\Lesson3\\Lesson3.csproj",
+        "projectUniqueName": "C:\\Users\\iarte\\OneDrive\\Рабочий стол\\с#\\домашка\\C_Sharp\\Lesson5\\Lesson5.csproj",
+        "projectName": "Lesson5",
+        "projectPath": "C:\\Users\\iarte\\OneDrive\\Рабочий стол\\с#\\домашка\\C_Sharp\\Lesson5\\Lesson5.csproj",
         "packagesPath": "C:\\Users\\iarte\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\iarte\\OneDrive\\Рабочий стол\\с#\\домашка\\C_Sharp\\Lesson3\\obj\\",
+        "outputPath": "C:\\Users\\iarte\\OneDrive\\Рабочий стол\\с#\\домашка\\C_Sharp\\Lesson5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iarte\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\iarte\\OneDrive\\Рабочий стол\\с#\\домашка\\C_Sharp\\Lesson1\\Lesson1.csproj",
-      "projectName": "Lesson1",
-      "projectPath": "c:\\Users\\iarte\\OneDrive\\Рабочий стол\\с#\\домашка\\C_Sharp\\Lesson1\\Lesson1.csproj",
+      "projectUniqueName": "C:\\Users\\iarte\\OneDrive\\Рабочий стол\\с#\\домашка\\C_Sharp\\Lesson5\\Lesson5.csproj",
+      "projectName": "Lesson5",
+      "projectPath": "C:\\Users\\iarte\\OneDrive\\Рабочий стол\\с#\\домашка\\C_Sharp\\Lesson5\\Lesson5.csproj",
       "packagesPath": "C:\\Users\\iarte\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\iarte\\OneDrive\\Рабочий стол\\с#\\домашка\\C_Sharp\\Lesson1\\obj\\",
+      "outputPath": "C:\\Users\\iarte\\OneDrive\\Рабочий стол\\с#\\домашка\\C_Sharp\\Lesson5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iarte\\AppData\\Roaming\\NuGet\\NuGet.Config"
